@@ -1,2 +1,5 @@
-# ukubhala-gw
-Gateway script in Node.js for a POC (express, mysql, influxdb)
+
+## ukubhala gateway 
+
+This script, writen for a proof of concept (POC), is a gateway between multiple input (automatic sensors data and user input) and multiple output (mysql, influxdb, ...)
+
